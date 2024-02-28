@@ -37,6 +37,8 @@ secret:
   secretKey: ""
   # Endpoint
   endpoint: https://storage.yandexcloud.net
+  # enable or disable 启动host模式连接minio
+  minio: enable
   # Region
   region: ""
 
